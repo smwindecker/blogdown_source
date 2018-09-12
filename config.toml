@@ -1,4 +1,4 @@
-baseurl = "http://smwindecker.com/"
+baseurl = "http://smwindecker.netlify.com/"
 languageCode = "en-us"
 title = "Saras M Windecker Research"
 theme = "hugo-future-imperfect"
