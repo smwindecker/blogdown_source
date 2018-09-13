@@ -1,6 +1,6 @@
 ---
 author: "Saras Windecker"
-date: 2018-09-23
+date: 2014-09-28
 linktitle: CV
 title: CV
 highlight: true
@@ -14,7 +14,7 @@ Quantitative and Applied Ecology Group
 
 School of BioSciences, University of Melbourne
 
-<sm.windecker@unimelb.edu.au> | <http://github.com/smwindecker> | <http://twitter.com/smwindecker>
+[](sm.windecker@unimelb.edu.au) | [](http://github.com/smwindecker) | [](http://twitter.com/smwindecker)
 
 ## Education
 
@@ -108,9 +108,9 @@ Windecker S, Catford J, Vesk P. 2015. Applying the response and effect trait fra
 
 ## Publications
 
-Carnell PE, **Windecker SM**, Brenker M, Baldock J, Maque P, Brunt K, & Macreadie PI. 2018. Carbon stocks, sequestration, and emission of wetlands in south eastern Australia. Global Change Biol. 2018;00:1–12. <https://doi.org/10.1111/gcb.14316>.
+Carnell PE, **Windecker SM**, Brenker M, Baldock J, Maque P, Brunt K, & Macreadie PI. 2018. Carbon stocks, sequestration, and emission of wetlands in south eastern Australia. Global Change Biol. 2018;00:1–12. [](https://doi.org/10.1111/gcb.14316).
 
-Catford J, Roberts J, Capon S, Froend R, **Windecker SM**, & Douglas M. 2017. Wetland vegetation of inland Australia. Australian Vegetation (ed. D.A. Keith). Cambridge University Press. <http://www.cambridge.org/us/academic/subjects/life-sciences/plant-science/australian-vegetation-3rd-edition?format=HB&isbn=9781107118430#VvgMtE3jogwYp1DQ.97>
+Catford J, Roberts J, Capon S, Froend R, **Windecker SM**, & Douglas M. 2017. Wetland vegetation of inland Australia. Australian Vegetation (ed. D.A. Keith). Cambridge University Press. [](http://www.cambridge.org/us/academic/subjects/life-sciences/plant-science/australian-vegetation-3rd-edition?format=HB&isbn=9781107118430#VvgMtE3jogwYp1DQ.97).
 
 Carnell PE, **Windecker SM**, Brenker M, Yukate B, Johnson K, & Macreadie PI. 2016. Carbon sequestration by Victorian inland wetlands. Blue Carbon Lab, Deakin University, Victoria, Australia for the Department of Environment, Land, Water, and Planning.
 
@@ -120,4 +120,4 @@ Webb A, Vietz G, **Windecker SM**, Hladyz S, Thompson R, Koster W, Jones M. 2015
 
 ## Software
 
-mixchar: an R package for mixture model deconvolution of thermal decay curves. <https://doi.org/10.5281/zenodo.1343865>
+mixchar: an R package for mixture model deconvolution of thermal decay curves. [](https://doi.org/10.5281/zenodo.1343865)
