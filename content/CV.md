@@ -1,8 +1,11 @@
 +++
 title = "CV"
 description = ""
-highlight = "true"
 date = "2018-09-23"
+categories = [
+    "CV",
+]
+highlight = "true"
 +++
 
 # Saras Windecker

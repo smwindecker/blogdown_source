@@ -1,6 +1,10 @@
 +++
-title = "About Me"
+title = "About"
+description = ""
 date = "2018-09-23"
+categories = [
+    "CV",
+]
 highlight = "true"
 +++
 
