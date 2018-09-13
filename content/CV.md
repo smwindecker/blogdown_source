@@ -1,12 +1,10 @@
-+++
-title = "CV"
-description = ""
-date = "2018-09-23"
-categories = [
-    "CV",
-]
-highlight = "true"
-+++
+---
+author: "Saras Windecker"
+date: 2014-09-28
+linktitle: CV
+title: CV
+highlight: true
+---
 
 # Saras Windecker
 
