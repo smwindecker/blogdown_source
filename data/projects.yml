@@ -2,7 +2,8 @@ name: Projects
 source:
   - icon: fa fa-github
     title: mixchar
-    description: An R package for mixture model deconvolution of thermal decay curves. [][https://doi.org/10.5281/zenodo.1343865]
+    link: https://doi.org/10.5281/zenodo.1343865
+    description: An R package for mixture model deconvolution of thermal decay curves. 
 
   - icon: fa fa-github
     description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
