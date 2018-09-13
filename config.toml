@@ -30,10 +30,10 @@ theme = "hugo-sustain-modified"
   weight = 100
   url = "/about/"
 [[menu.main]]
-  name = "research"
-  identifier = "research"
+  name = "CV"
+  identifier = "CV"
   weight = 200
-  url = "/research/"
+  url = "/CV/"
 [[menu.main]]
   name = "projects"
   weight = 300
