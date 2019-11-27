@@ -1,0 +1,1 @@
+Like this content? Consider `r fontawesome::fa('hand-point-right')` [DONATING](https://www.mycause.com.au/page/218121/salud-a-la-calle) `r fontawesome::fa('hand-point-left')` to [Salud a la Calle](http://www.saludalacalle.cl/), my cause of the month.

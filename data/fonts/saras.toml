@@ -1,0 +1,15 @@
+# Font style metadata
+name = "saras"
+
+# Optional Google font URL
+google_fonts = "Josefin+Sans:400,400i|Karla:400,700|Roboto+Mono"
+
+# Font families
+heading_font = "Josefin Sans"
+body_font = "Josefin Sans"
+nav_font = "Josefin Sans"
+mono_font = "Josefin Sans"
+
+# Font size
+font_size = "18"
+font_size_small = "16"
