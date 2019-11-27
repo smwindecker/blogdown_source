@@ -1,0 +1,25 @@
+---
+title: Try Out Video Link
+author: Saras Windecker
+date: '2019-11-17'
+summary: ''
+image:
+  caption: ''
+  focal_point: 'center'
+categories: []
+tags: []
+---
+
+Test out content here. 
+
+```{r, echo = FALSE, eval = TRUE}
+blogdown::shortcode("youtube", "CjTLN-FXiFA")
+```
+
+## 
+
+```{r add-cause, child = '../add_cause.Rmd'}
+```
+
+***
+Why do I have a donate link? Read about my motivation to add fundraising to my blog [here](/post/2019-11-17-welcome/).
